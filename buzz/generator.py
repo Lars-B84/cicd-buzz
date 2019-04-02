@@ -1,7 +1,7 @@
 import random
 
-buzz = ('continuous testing', 'continuous integration', 
-    'continuous deployment', 'continuous improvement', 'devops')
+buzz = ('OSI Team', 'One Sales Interface', 
+    'Xamarin', 'Azure DevOps', ' Je weet zelluf devops')
 adjectives = ('complete', 'modern', 'self-service', 'integrated', 'end-to-end')
 adverbs = ('remarkably', 'enormously', 'substantially', 'significantly', 
     'seriously')
